@@ -327,8 +327,9 @@ const settings = {
         passwords : {
             'admin': '1751bfe48d5ad21fd9d'
         },
-        lang_api_endpoint : 'https://api.eventjuicer.workers.dev/?url=https%3A%2F%2Flocalise.biz%2Fapi%2Fexport%2Fall.json%3Fformat%3Dmulti%26pretty%26key%3DtWMy1RRHuiW6DD9T7AyYtFlQzAeztbBK',
-
+       
+        lang_api_endpoint : 'https://localise.biz/api/export/all.json?format=multi&key=tWMy1RRHuiW6DD9T7AyYtFlQzAeztbBK',    
+        
         api : "https://api.eventjuicer.com/v1/public/hosts/ecommerceberlin.com",
      //   proxy: "https://api.eventjuicer.workers.dev?url=",
         proxy: "",
