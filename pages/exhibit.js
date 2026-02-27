@@ -29,12 +29,12 @@ const PageExhibit = () => (
       {(data) => <Head>{data}</Head>}
     </MyHead>
   <Wrapper>
-  <WidgetSalesMap
+  {/* <WidgetSalesMap
     label="exhibitors.map.title"
     secondaryLabel="exhibitors.map.opensales"
  
     first
-  />
+  /> */}
   <WidgetOffer />
   {/* <WidgetIconGrid setting="exhibitors.benefits" icons={{
   }}/> */}
@@ -42,7 +42,7 @@ const PageExhibit = () => (
 
   {/* <WidgetVideoWithReviews /> */}
 
-  <WidgetVips limit={12} mobile={4} />
+  {/* <WidgetVips limit={12} mobile={4} /> */}
 
   {/* <Wrapper label="exhibitors.faq.name">
     <Faq
@@ -69,7 +69,7 @@ const PageExhibit = () => (
     />
   </Wrapper> */}
 
-  <WidgetFeaturedCompanies />
+  {/* <WidgetFeaturedCompanies /> */}
 
   {/* <WidgetAllOrCurrentExhibitorsColumnList/> */}
 

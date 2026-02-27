@@ -1673,15 +1673,15 @@ const settings = {
                 email: 'hello@ecommerceberlin.com',
                 chatlio : true
             },
-            {
-                name: 'Lucas Zarna',
-                position : '',
-                langs : ["en"],
-                avatar: 'https://res.cloudinary.com/ecommerceberlin/image/upload/v1705307707/Website/lucas-zarna-small-24.png',
-                phone: '+49 176 316 244 92',
-                email: 'sales@ecommerceberlin.com',
-                chatlio : true
-            }
+            // {
+            //     name: 'Lucas Zarna',
+            //     position : '',
+            //     langs : ["en"],
+            //     avatar: 'https://res.cloudinary.com/ecommerceberlin/image/upload/v1705307707/Website/lucas-zarna-small-24.png',
+            //     phone: '+49 176 316 244 92',
+            //     email: 'sales@ecommerceberlin.com',
+            //     chatlio : true
+            // }
         ],
 
 
